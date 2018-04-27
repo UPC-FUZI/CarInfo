@@ -1,4 +1,4 @@
-package com.eastmoney.customerinfopanel.web;
+package com.junbo.platform;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;

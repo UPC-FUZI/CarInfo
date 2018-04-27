@@ -1,0 +1,4 @@
+com\junbo\platform\CarInfoApplication.class
+com\junbo\platform\ServletInitializer.class
+com\junbo\platform\outer\controller\InfoController.class
+com\junbo\platform\CarInfoApplication$1.class
