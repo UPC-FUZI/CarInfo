@@ -1,3 +1,6 @@
-D:\项目\Platform\CarInfo\platform-web\src\main\java\com.junbo.platform\CarInfoApplication.java
-D:\项目\Platform\CarInfo\platform-web\src\main\java\com.junbo.platform\outer\controller\InfoController.java
-D:\项目\Platform\CarInfo\platform-web\src\main\java\com.junbo.platform\ServletInitializer.java
+/Users/zhongxingfu/Documents/CarInfo/CarInfo/platform-web/src/main/java/com/junbo/platform/outer/controller/SalerCarController.java
+/Users/zhongxingfu/Documents/CarInfo/CarInfo/platform-web/src/main/java/com/junbo/platform/outer/mapper/SellerCarInfoMapper.java
+/Users/zhongxingfu/Documents/CarInfo/CarInfo/platform-web/src/main/java/com/junbo/platform/ServletInitializer.java
+/Users/zhongxingfu/Documents/CarInfo/CarInfo/platform-web/src/main/java/com/junbo/platform/outer/model/SellerCarInfo.java
+/Users/zhongxingfu/Documents/CarInfo/CarInfo/platform-web/src/main/java/com/junbo/platform/CarInfoApplication.java
+/Users/zhongxingfu/Documents/CarInfo/CarInfo/platform-web/src/main/java/com/junbo/platform/outer/model/SellerCarInfoExample.java
